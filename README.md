@@ -163,13 +163,13 @@ Python 3.12.3
 Clone project:
 
 ```bash
-git clone https://github.com/yourusername/zero-width-steg-tool.git
+git clone https://github.com/Lupah-T/WhiteSpace_Steg.git
 ```
 
 Move into directory:
 
 ```bash
-cd zero-width-steg-tool
+cd WhiteSpace_Steg
 ```
 
 Make executable:
@@ -270,3 +270,5 @@ U+FEFF
 ## Disclaimer
 
 This tool is intended for educational purposes, forensic analysis, and authorized investigations only.
+
+
